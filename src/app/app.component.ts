@@ -5,7 +5,9 @@ import { Component } from "@angular/core";
   template: `
   <div>
     <h1>{{pageTitle}}</h1>
-    <div>My Fisrt Component</div>
+    <div>
+      My Fisrt Component
+    </div>
   </div>
   `
 })
